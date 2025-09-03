@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/0640665c-d745-4cb9-93bb-b62590dbf094
 ## 📋 Project Info
 
 **🔄 Fork Information**
-- **Original Repository**: [organization/original-repo](https://github.com/UMC-CARDIFY/Server)
+- **Original Repository**: [UMC-CARDIFY/Server](https://github.com/UMC-CARDIFY/Server)
 - **Forked by**: [이정원](https://github.com/leegaarden)
 - **Fork Purpose**: 개인 포트폴리오 및 기능 개선
 - **Fork Date**: 2025.09.02
