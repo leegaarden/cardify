@@ -57,8 +57,8 @@ cp src/main/resources/application.yml.example src/main/resources/application.yml
 ```
 
 **✅ 실행 확인**
-- 서버: https://cardify.co.kr
-- API 문서: https://cardify.co.kr/swagger-ui.html
+- 서버: http://localhost:8080
+- API 문서: http://localhost:8080/swagger-ui/index.html
 
 ## 🔀 Git Flow Strategy
 
@@ -111,7 +111,7 @@ GET    /api/v1/users/check                 # 사용자 출석체크
 PUT /api/v1/payment-methods/{id}/default   # 기본 결제 수단 변경
 ```
 
-**📖 상세 API 명세**: [Swagger UI](https://cardify.co.kr/swagger-ui.html)
+**📖 상세 API 명세**: [Swagger UI](https://cardify.co.kr/swagger-ui/index.html)
 
 <!--
 ## 📅 Development Log
