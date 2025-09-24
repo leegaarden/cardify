@@ -211,7 +211,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🙏 Acknowledgments
 
-- 원본 프로젝트: [organization/original-repo](https://github.com/UMC-CARDIFY/Server)
+- 원본 프로젝트: [UMC-CARDIFY/Server](https://github.com/UMC-CARDIFY/Server)
 - 팀원들: [@임수빈](https://github.com/afflogy), [@최선규](https://github.com/ohige01), [@최대한](https://github.com/dhchoi98)
 
 ---
