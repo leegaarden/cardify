@@ -110,10 +110,10 @@ GET    /api/v1/users/check                 # 사용자 출석체크
 ```bash
 PUT /api/v1/payment-methods/{id}/default   # 기본 결제 수단 변경
 ```
-
+<!--
 **📖 상세 API 명세**: [Swagger UI](https://cardify.co.kr/swagger-ui/index.html)
 
-<!--
+
 ## 📅 Development Log
 
 ### 🎯 Phase 1: 기본 구조 구축 (2024.08)
