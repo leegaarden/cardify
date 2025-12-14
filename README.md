@@ -57,7 +57,7 @@ cp src/main/resources/application.yml.example src/main/resources/application.yml
 ```
 
 **✅ 실행 확인**
-- API 문서: http://api.cardify.co.kr/swagger-ui/index.html
+- API 문서: https://api.cardify.co.kr/swagger-ui/index.html
 
 ## 🔀 Git Flow Strategy
 
